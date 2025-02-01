@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://evex.land">
-    <img src="..." width="500" height="auto" alt="Cumo"/>
+    <img src="https://raw.githubusercontent.com/evex-dev/cumo/main/docs/images/cumo-title.png" width="500" height="auto" alt="Cumo"/>
   </a>
 </div>
 
