@@ -2,8 +2,8 @@
 TypeScript-first schema validation for request ☁
 
 <div align="center">
-  <a href="https://hono.dev">
-    <img src="https://raw.githubusercontent.com/honojs/hono/main/docs/images/hono-title.png" width="500" height="auto" alt="Hono"/>
+  <a href="https://evex.land">
+    <img src="..." width="500" height="auto" alt="Hono"/>
   </a>
 </div>
 
