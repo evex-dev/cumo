@@ -26,7 +26,12 @@ Fast, but not only fast.
 Inspired by [Hono](https://github.com/honojs/hono).
 
 ```ts
-Coming soon....
+import * as c from "cumo"
+
+const pageSchema = c.query({
+  text: c.string(),
+  page: c.number()
+})
 ```
 
 ## Quick Start
