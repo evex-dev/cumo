@@ -23,6 +23,7 @@
 Cumo - _**means cloud☁ in Japanese**_ - is a small, simple, and ultrafast validator built on Web Standards. It works on any JavaScript runtime: Cloudflare Workers, Fastly Compute, Deno, Bun, Vercel, AWS Lambda, Lambda@Edge, and Node.js.
 
 Fast, but not only fast.
+Inspired by [Hono](https://github.com/honojs/hono).
 
 ```ts
 Coming soon....
