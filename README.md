@@ -34,6 +34,8 @@ const pageSchema = x.query({
 })
 ```
 
+Note: In many frameworks, the variable `c` is a reserved word, so we use `x` here.
+
 ## Quick Start
 
 ```bash
