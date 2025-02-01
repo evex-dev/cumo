@@ -26,11 +26,11 @@ Fast, but not only fast.
 Inspired by [Hono](https://github.com/honojs/hono).
 
 ```ts
-import * as x from "cumo"
+import * as c from "cumo"
 
-const pageSchema = x.query({
-  text: x.string(),
-  page: x.int().min(0)
+const pageSchema = c.query({
+  text: c.string(),
+  page: c.int().min(0)
 })
 ```
 
