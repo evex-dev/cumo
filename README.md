@@ -1,6 +1,3 @@
-# cumo
-TypeScript-first schema validation for request ☁
-
 <div align="center">
   <a href="https://evex.land">
     <img src="..." width="500" height="auto" alt="Hono"/>
