@@ -47,10 +47,6 @@ deno add npm:cumo
 
 Coming soon...
 
-## Migration
-
-The migration guide is available on [docs/MIGRATION.md](docs/MIGRATION.md).
-
 ## Communication
 
 [X](https://x.com/amex2189) and [Discord channel](https://discord.gg/evex) are available.
