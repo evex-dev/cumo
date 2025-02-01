@@ -30,7 +30,7 @@ import * as c from "cumo"
 
 const pageSchema = c.query({
   text: c.string(),
-  page: c.number()
+  page: c.int().min(0)
 })
 ```
 
