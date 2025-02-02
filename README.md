@@ -32,7 +32,7 @@ const pageSchema = c.query({
   text: c.string(),
   page: c.number({
     int: true,
-    min: 9
+    min: 0
   })
 })
 ```
